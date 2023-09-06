@@ -1,5 +1,5 @@
 
- is where we do work that cross-cuts our various projects and sets the direction and protocols for the lab as a whole.
+Repo is where we do work that cross-cuts our various projects and sets the direction and protocols for the lab as a whole.
 
 
 ## The Following is a *draft* version of our lab book. As a draft it may contain errors and may need improved citation. Please submit a pull request to suggest any changes
