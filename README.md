@@ -1,19 +1,9 @@
 
-Repo is where we do work that cross-cuts our various projects and sets the direction and protocols for the lab as a whole.
-
-
 ## The Following is a *draft* version of our lab book. As a draft it may contain errors and may need improved citation. Please submit a pull request to suggest any changes
 
+# The LAByrinth Project Lab Manual
 
-
-Below is an overview of current work and anticipated trajectories. As this work is contingent on our findings the final outputs are very much up in the air. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#Red` indicates the three main projects and ![#47d10c](https://placehold.it/15/47d10c/000000?text=+) `#green` indicates where we are in the workflow.
-
-
-![alt text](https://github.com/Carceral-Ecologies/lab_book/blob/master/Flow%20Chart_Carceral%20Ecologies%20Fall%202020.png)
-
-# Carceral Ecologies Lab Book
-
-This lab book draws upon the collectively-honed insights and pathbreaking work of the Civic Laboratory for Environmental Action Research (CLEAR), a feminist, anti-colonial lab specializing in monitoring plastic pollution, directed by Max Liboiron. See the Jan 1, 2018 snapshot of [CLEAR Lab Book](https://civiclaboratory.nl/clear-lab-book/). In particular lab guidlines 1-8 were drawn directly from the CLEAR Lab Book and then adapted with minor edits. The value framework blurb as well as the onboarding and exiting protocols are directly drawn from the CLEAR Lab Book. Text on faculty responsiblities is almost entierly from the [Aly Lab Book](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf) and that lab book also inspired some language in the Work Autonomiously guideline. The child care guideline is entirely in debt to Kate Cairns sylabus policy you can see [here](https://twitter.com/katefcairns/status/1222274604426825730/photo/1). 
+This lab manual draws upon the collectively-honed insights and pathbreaking work of the Civic Laboratory for Environmental Action Research (CLEAR), a feminist, anti-colonial lab specializing in monitoring plastic pollution, directed by Max Liboiron. See the Jan 1, 2018 snapshot of [CLEAR Lab Book](https://civiclaboratory.nl/clear-lab-book/). In particular lab guidlines 1-8 were drawn directly from the CLEAR Lab Book and then adapted with minor edits. The value framework blurb as well as the onboarding and exiting protocols are directly drawn from the CLEAR Lab Book. Text on faculty responsiblities is almost entierly from the [Aly Lab Book](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf) and that lab book also inspired some language in the Work Autonomiously guideline. The child care guideline is entirely in debt to Kate Cairns sylabus policy you can see [here](https://twitter.com/katefcairns/status/1222274604426825730/photo/1). The Manual would not exist in this form without Nick Shapiro's [Carceral Ecologies Lab Book](https://github.com/Carceral-Ecologies/lab_book) from which the structure, content, and aforementioned citations were borrowed with minor edits. 
 
 
  ##	__Value Framework__
@@ -28,7 +18,7 @@ We communicate our values in the hopes that they will ground our actions and dec
 
 
 ## Glossary of Terms
-A glossary of terms we use including our values is located [here](https://docs.google.com/document/d/16NC6xql736aunQCBjJzvCx3pyv8h8OSiCkgCMeYMf9E/edit?usp=sharing).
+A glossary of terms we use including our values is located [here](https://docs.google.com/document/d/1LH2bwnm4T5HTRTwIB4nF-Lrtso8dE6D0iBCZ2NVg1fQ/edit?usp=sharing).
 ## Lab Guidelines
 
 1. **If you are sick, heartbroken, or exhausted, go home.** This work is not more important than your well being. This guideline supersedes the following guidelines on attendence and is complementry to many of those that follow. Communicating when you have to bow out is preferred but we recognize that is not always possible.
