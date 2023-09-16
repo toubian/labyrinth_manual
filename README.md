@@ -12,13 +12,14 @@ This lab manual draws upon the collectively-honed insights and pathbreaking work
 We communicate our values in the hopes that they will ground our actions and decisions in what we hold important. It is our aspiration that all actions and outputs of the lab are reflective of these values.
 
 1. Critical environmental justice
-2. Abolition
-3. Accountability
-4. Humility & Solidarity
+2. Accountability
+3. Humility
+4. LAByrinth ethics of care
 
 
 ## Glossary of Terms
 A glossary of terms we use including our values is located [here](https://docs.google.com/document/d/1LH2bwnm4T5HTRTwIB4nF-Lrtso8dE6D0iBCZ2NVg1fQ/edit?usp=sharing).
+
 ## Lab Guidelines
 
 1. **If you are sick, heartbroken, or exhausted, go home.** This work is not more important than your well being. This guideline supersedes the following guidelines on attendence and is complementry to many of those that follow. Communicating when you have to bow out is preferred but we recognize that is not always possible.
@@ -49,7 +50,58 @@ A glossary of terms we use including our values is located [here](https://docs.g
 
 10. *Child Care*. Many students have care responsiblities for a child or children in their life, whether as a parent, an older sibling, cousin, etc. If your childcare needs ever come into conflict with the lab schedule, please don't feel as though you need to miss a lab meeting. We understand that sometimes plans fall though. If this happens, you are welcome to bring a child to lab meetings or lab work with you. We simply ask that you bring materials to keep them busy, and remain mindful of your classmates. Pets fall within the same vein. If you have any questions about this, feel free to contact Chris about it. 
 
-__Faculty Members__
+### Methods of Support
+
+There are a few different ways we can support your work within the LAByrinth Project, methods of support (detailed below) depend on the capacity in which you join which are as follows: 
+
+* Volunteer - lots of appreication and the occasional pizza. Great if you want fun research experience and don't need class credit or want to develop your own project. 
+
+* Class Credit - HBS majors and Society + Genetics minors can enroll in a Winter SOC GEN 196 class for unit credit. This requires project development and individual deliverables which                   are decided on at the beginning of the quarter by you and Chris. 
+
+* Spring/Summer Research - After enrolling in and completing a Winter 196 class students can further develop their projects as undergraduate researchers for the lab and be paid to do                              so through Spring and Summer. 
+
+* Undergraduate Research Fellows Program - See information [here](https://sciences.ugresearch.ucla.edu/programs-and-scholarships/urfp/)
+
+* LAEP Work-Study - See information [here](https://financialaid.ucla.edu/special-aid-programs/learning-aligned-education-program)
+
+#### A Note on Authorship
+
+Our aim is to give due credit to all; authorship is determined differently based on the medium of publication their requirements. 
+
+* Formal Journals: Authorship distribution is set before work on the deliverable commences.  
+* The LAByrinth Project Website: Undergraduates/Graduates who work on the deliverable will (usually) get full authorship. 
+* Other mediums: To be determined before work begins by the authors and Chris. 
+
+## What Resources do I Have Access to as a LAByrinth Member? How Do I Use Them?
+
+### Spaces
+
+1. Archiving Room: LAByrinth has an archiving room filled with all sorts of fun things. It is located in LSB Floor 3 scross the hall from Chris' office, inside a door, all the way at the end. Ask the ISG Main Office to let you in M-W 5am-5pm, otherwise ask Chris and he will let you in if he is on campus (he usually is). 
+
+2. ISG hallway outside Archiving Room
+
+### Equipment
+
+1. Archiving Materials: There are archiving materials in the LAByrinth Archive room available for use by LAByrinth members. Same procedure as above to be let into the room. [Here](https://docs.google.com/document/d/1xPFiymsgkl2qoAkapaHHUU75ceXKz9bEDdqObJ7DyWI/edit?usp=sharing) are the instructions for operating the Archive computers. 
+
+2. Podcasting: There is audio recording equipment inside the LAByrinth Archive room that is available for LAByrinth members to use. Same procedure as above to be let into the room. [Here](https://docs.google.com/document/d/1XORBLC3S0WE5X4MnDVPWwJwfA0t_GPnzurTZf43C9cc/edit?usp=sharing) are the instructions for operating the Podcasting equipment. 
+
+3. Equipment Check-Out: There are small audio recorders and other equipment that can be checked-out for LAByrinth use. [Email](toubian@ucla.edu) Sophia to check equipment out for a limited period of time. 
+
+### I need help with something! Who do I ask?
+
+Internally in The LAByrinth Project our Chief Maze Operator (Sophia) is your first stop for any information or issue, whether it be technical, structural, or even a little bit silly. Reach her by email at toubian@ucla.edu or on discord @toubian. 
+
+If Sophia can't help you (or if you feel the need to go all the way to the top) Chris can be reached by email at ckelty@ucla.edu and on discord @ckelty. 
+
+Externally, the lovely folks in the ISG office can help you with most other things. For issues regarding: 
+
+* Classes (196, etc.) -  Frenz Cabison, Student Academic Advisor [email](frenz@socgen.ucla.edu)
+* Reimbursements - Nancy Corona, Purchaser/Administrative Coordinator [email](nancy@socgen.ucla.edu)
+* GSRs - Victoria Guerrero, Academic Personnel Coordinator [email](victoria@socgen.ucla.edu)
+* Building Safety/Access - Ana Wevill, Chief Administrative Officer [email](ana@socgen.ucla.edu)
+
+### Faculty Members
 
 In addition to all of the above faculty members should:
 * Support other members of the lab (scientifically, intellectually, emotionally, and where possible, financially).
@@ -58,8 +110,9 @@ In addition to all of the above faculty members should:
 * Support your career development in whatever way I can (e.g., by introducing you to other researchers in the field, promoting your work at talks, writing recommendation letters for you, and letting you attend conferences as often as finances permit)
 * Help you prepare for the next step of your career in the ways that their work and experince can be helpful.
 
-#### Chris can be reached by email at ckelty@ucla.edu or on discord @ckelty 
-#### Sophia can be reached by email at toubian@ucla.edu or on discord @toubian
+#### Chris (Labyrinthine Overlord/PI) can be reached by email at ckelty@ucla.edu or on discord @ckelty__
+
+#### Sophia (Chief Maze Operator/General Problem Solver/GSR) can be reached by email at toubian@ucla.edu or on discord @toubian__
 
 # Land Acknowledgement
 
@@ -96,10 +149,17 @@ First thing that will happen as a part of our onboarding proccess is that you wi
 
 * Go to the LAByrinth [Website](https://labyrinth.garden) and start reading the backlog of [articles](https://labyrinth.garden/research/) + listening to our [podcast series](https://labyrinth.garden/podcast/) (spotify [here](https://open.spotify.com/show/4QW3ZgP3RddumZdPRLJZzw))
 
+* Make sure you've completed the relevant [Citi Training](https://about.citiprogram.org/?_ga=2.215811861.302232273.1694824859-363715810.1694824858). For most LAByrinth members this is "Group 1: Human Subjects Research" but if you have questions [email](toubian@ucla.edu) Sophia. 
+
 * Understand lab expectations—manage your own time, solve problems to the best of your ability, use the entire lab as a resource.
 
-* Start a schedule of tasks—what are you going to work on, when? Work with your project group to delegate. Ask Sophia to help you with this (if you need help). 
+* Start a schedule of tasks—what are you going to work on, when? Work with your project group to delegate. Ask Sophia to help you with this (if you need help).
 
+* Lastly, we order food to some of our All-Hands lab meetings and want everyone to enjoy what we get! Please send Sophia an [email](toubian@ucla.edu) if you have any dietary restrictions (or preferences) and we will do our absolute best to accommodate! There will always be vegeterian options present, but let us know if you are vegan, gluten-free, lactose intoleract, or just really don't like bell peppers. Also always feel free to bring your own food to meetings if you prefer to do so. 
+
+#### A Note on Discord
+
+We use discord for all intra-lab communication. That being said, it can be a fun place! We highly encourage the sharing of relevant media and love to see all of LAByrinth enjoying each other's projects. 
 
 ### Exiting the Lab
 
@@ -141,6 +201,12 @@ The Tasks page serves as a masterlist of all the detailed tasks that need to be 
 
 (TBD)
 
+### Ethics of Care: Humans and their Data
+
+As a lab that does a lot of ethnographic research, we work with other humans frequently. As such, we have adopted an ethics of care that prioritizes the communities and individuals that we work with. All our work with humans falls under the UCLA IRB when necessary, and all applicable lab members are required to have the revlevant [Citi Training](https://about.citiprogram.org/?_ga=2.215811861.302232273.1694824859-363715810.1694824858). 
+
+Most of the data that we publish about humans is either made pseudo-anonymous or completely anonymous, any decsion not to do so should be made by the subject and approved by Chris in alignment with IRB guidelines. 
+
 ### Playlists
 
 (TBD)
@@ -156,4 +222,3 @@ Summer Programs for Undergraduate Research (various due dates, early spring) [li
 Undergrad Research Week (Spring) [Link](https://urweek.ugresearch.ucla.edu/) + Dean's prize (Spring [Link](https://urweek.ugresearch.ucla.edu/apply/#deansprize)
 
 LAEP [link](https://financialaid.ucla.edu/special-aid-programs/learning-aligned-education-program)
-
