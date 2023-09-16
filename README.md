@@ -78,7 +78,13 @@ Our aim is to give due credit to all; authorship is determined differently based
 
 1. Archiving Room: LAByrinth has an archiving room filled with all sorts of fun things. It is located in LSB Floor 3 scross the hall from Chris' office, inside a door, all the way at the end. Ask the ISG Main Office to let you in M-W 5am-5pm, otherwise ask Chris and he will let you in if he is on campus (he usually is). 
 
-2. ISG hallway outside Archiving Room
+2. ISG hallway outside Archiving Room: There are desks and chairs and a couch outside the archiving room that can be used to work on LAByrinth work, just let Chris, Ana, or Nancy know to let you in.
+
+__Additional Spaces to Know__
+
+1. ISG Conference room: LSB 3318. 3rd floor of the Life Science Building. Next door to Chris's Office. All-Hands LAByrinth meetings are held here (usually) every week. 
+
+2. Chris's office: 3rd floor of the Life Science Building. Next door to the Conference Room. 
 
 ### Equipment
 
