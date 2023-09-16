@@ -3,6 +3,7 @@ The Following is a *draft* version of our lab book. As a draft it may contain er
 
 # The LAByrinth Project Lab Manual
 
+
 This lab manual draws upon the collectively-honed insights and pathbreaking work of the Civic Laboratory for Environmental Action Research (CLEAR), a feminist, anti-colonial lab specializing in monitoring plastic pollution, directed by Max Liboiron. See the Jan 1, 2018 snapshot of [CLEAR Lab Book](https://civiclaboratory.nl/clear-lab-book/). In particular lab guidlines 1-8 were drawn directly from the CLEAR Lab Book and then adapted with minor edits. The value framework blurb as well as the onboarding and exiting protocols are directly drawn from the CLEAR Lab Book. Text on faculty responsiblities is almost entierly from the [Aly Lab Book](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf) and that lab book also inspired some language in the Work Autonomiously guideline. The child care guideline is entirely in debt to Kate Cairns sylabus policy you can see [here](https://twitter.com/katefcairns/status/1222274604426825730/photo/1). The Manual would not exist in this form without Nick Shapiro's [Carceral Ecologies Lab Book](https://github.com/Carceral-Ecologies/lab_book) from which the structure, content, and aforementioned citations were borrowed with minor edits. 
 
 
@@ -29,7 +30,7 @@ A glossary of terms we use including our values is located [here](https://docs.g
 2. *Attend lab and working group meetings.* Lab meetings (1.5 hrs/week) and working group meetings (1 hr/week) are the main ways that we operate as an entire lab, and as a community. All-hands lab meetings are where we discuss the values, concepts, goals, and ideas that underlie all our work as a lab, and therefore are where we work out how and why we work. Without the meetings, we are just some people working on some stuff. If you are not going to make a lab meeting, note it in the #general channel on discord. You *don't need to explain why* you won't be in attendance. Working group meetings occur without Chris (although he can be invited in or ask permission to join) and they are a time to work together in a non-agenda-driven space without faculty presence in order to self-organize. Meetings are usually led by the Ungergraduate/Graduate/Postdoc leading the project, but should still be a collaborative space. Working group meetings at the start of the quarter may tend to be slightly agenda-driven. If you are not going to be able to make a working group meeting note it in the channel for the project you're working on, so your collaborators know what to expect. You *don't need to explain why* you won't be in attendance, but please don't get in the habit of not attenting meetings. If you do, someone from the lab will reach out to you to make sure you're ok.  
     Here are some ways to structure working group meetings:
     * Quick check in. 
-    * If starting a new project go the the boring logistics of the workflow so no one gets lost in the protocol.
+    * If starting a new project go over the boring logistics of the workflow so no one gets lost in the protocol.
     * Updates on current project.
     * Where everyone is at and what questions are keeping you from moving forward (even if folks haven't started yet they can learn from other people's questions).
     * If nearing the end of a project set a clear deadline to finish or to at the very least provide an update on where you left off. 
@@ -54,11 +55,11 @@ A glossary of terms we use including our values is located [here](https://docs.g
 
 There are a few different ways we can support your work within the LAByrinth Project, methods of support (detailed below) depend on the capacity in which you join which are as follows: 
 
-* Volunteer - lots of appreication and the occasional pizza. Great if you want fun research experience and don't need class credit or want to develop your own project. 
+* Volunteer - lots of appreciation and the occasional pizza. Great if you want fun research experience and don't need class credit or want to develop your own project. 
 
-* Class Credit - HBS majors and Society + Genetics minors can enroll in a Winter SOC GEN 196 class for unit credit. This requires project development and individual deliverables which                   are decided on at the beginning of the quarter by you and Chris. 
+* Class Credit - HBS majors and Society + Genetics minors can enroll in a Winter SOC GEN 196 class for unit credit. This requires project development and individual deliverables which are decided on at the beginning of the quarter by you and Chris. 
 
-* Spring/Summer Research - After enrolling in and completing a Winter 196 class students can further develop their projects as undergraduate researchers for the lab and be paid to do                              so through Spring and Summer. 
+* Spring/Summer Research - After enrolling in and completing a Winter 196 class students can further develop their projects as undergraduate researchers for the lab and be paid to do so through Spring and Summer. 
 
 * Undergraduate Research Fellows Program - See information [here](https://sciences.ugresearch.ucla.edu/programs-and-scholarships/urfp/)
 
@@ -105,7 +106,7 @@ Externally, the lovely folks in the ISG office can help you with most other thin
 * Classes (196, etc.) -  Frenz Cabison, Student Academic Advisor [email](frenz@socgen.ucla.edu)
 * Reimbursements - Nancy Corona, Purchaser/Administrative Coordinator [email](nancy@socgen.ucla.edu)
 * GSRs - Victoria Guerrero, Academic Personnel Coordinator [email](victoria@socgen.ucla.edu)
-* Building Safety/Access - Ana Wevill, Chief Administrative Officer [email](ana@socgen.ucla.edu)
+* Building Safety/Access or anything the above three cannot help with - Ana Wevill, Chief Administrative Officer [email](ana@socgen.ucla.edu)
 
 ### Faculty Members
 
