@@ -7,8 +7,8 @@ This lab manual draws upon the collectively-honed insights and pathbreaking work
 
 The Manual would not exist in this form without Nick Shapiro's [Carceral Ecologies Lab Book](https://github.com/Carceral-Ecologies/lab_book) from which the structure, content, and aforementioned citations were borrowed with minor edits. 
 
-[Labyrinth Overview](./Labyrinth-Overiview.jpg)
-<img src="Labyrinth-Overiview.jpg" width="400">
+[Labyrinth Overview](./Labyrinth-Overview.jpg)
+<img src="Labyrinth-Overview.jpg" width="400">
 
 ##	__Value Framework__
  
@@ -182,9 +182,9 @@ In addition to all of the above faculty members should:
 * Support your career development  (e.g., by introducing you to other researchers in the field, promoting your work at talks, writing recommendation letters for you, and letting you attend conferences as often as finances permit)
 * Help you prepare for the next step of your career in the ways that their work and experience can be helpful.
 
-#### Chris (Labyrinth Architect, PI) can be reached by email at ckelty@ucla.edu or on discord @ckelty__
+#### Chris (Labyrinth Architect, PI) can be reached by email at ckelty@ucla.edu or on discord @ckelty
 
-#### Sophia (Chief Maze Operator/General Problem Solver/GSR) can be reached by email at toubian@ucla.edu or on discord @toubian__
+#### Sophia (Chief Maze Operator/General Problem Solver/GSR) can be reached by email at toubian@ucla.edu or on discord @toubian
 
 # Land Acknowledgement
 
@@ -192,7 +192,7 @@ The LAByrinth project at UCLA acknowledges the Gabrielino/Tongva peoples as the 
 
 Click on the linked words above to hear the pronunciation for the Tongva-language words and see the map of Tongva territory below.
 
-[![click this map](https://github.com/Carceral-Ecologies/lab_book/blob/master/Tongva%20screenshot.png)](https://native-land.ca/api/embed/embed.html?maps=languages&name=tongva)
+[![click this map](./Gabrielino-Tongva.png)](https://native-land.ca/api/embed/embed.html?maps=languages&name=tongva)
 Image Via [native-land.ca/](native-land.ca/)
 
 * For more information on the Indigenous repatriation via NAGPRA and UCLA's role see [Carrying Our Ancestors Home](http://www.coah-repat.com) "an educational tool for people seeking to understand the process and diversity of returning ancestral remains and cultural items as well as the impact of repatriation on Indigenous communities around the world."
@@ -235,19 +235,21 @@ We use discord for all intra-lab communication. That being said, it can be a fun
 
 ### Exiting the Lab
 
-* Communal round robin during a meeting: what we valued about your work with us.
-* Make sure you've returned all borrowed equipment (recorders, etc.)
-* Exit interview.
+[TBD]
 
-Exit interview:
-1. How was your overall experience working in the lab?
-2. How did your fellow lab members make you feel / how did you feel in the lab environment (approachable? Comfortable to talk to to? Easy to work with?...)
-3. What is the most valuable thing you learned? What else did you learn?
-4. How do you think your work/experience in the lab could have been different?
-5. What stood in the way of you getting your work done (if anything)? 
-6. What would you like to learn that you didn’t get to?
-7. Would you like to come back to work in the lab? If so, what would you choose to work on?
-8. Is there anything else about your experiences that you would like to share?
+<!-- * Communal round robin during a meeting: what we valued about your work with us. -->
+<!-- * Make sure you've returned all borrowed equipment (recorders, etc.) -->
+<!-- * Exit interview. -->
+
+<!-- Exit interview: -->
+<!-- 1. How was your overall experience working in the lab? -->
+<!-- 2. How did your fellow lab members make you feel / how did you feel in the lab environment (approachable? Comfortable to talk to to? Easy to work with?...) -->
+<!-- 3. What is the most valuable thing you learned? What else did you learn? -->
+<!-- 4. How do you think your work/experience in the lab could have been different? -->
+<!-- 5. What stood in the way of you getting your work done (if anything)?  -->
+<!-- 6. What would you like to learn that you didn’t get to? -->
+<!-- 7. Would you like to come back to work in the lab? If so, what would you choose to work on? -->
+<!-- 8. Is there anything else about your experiences that you would like to share? -->
 
 ## Project Management Protocol
 
