@@ -105,15 +105,15 @@ There are a few different ways we can support your work within the LAByrinth Pro
 
 #### Supporting Undergraduate Research
 
-Undergraduate Research Fellows Program (Due October 15 – November 15)[link](http://sciences.ugresearch.ucla.edu/programs-and-scholarships/urfp)
+* Undergraduate Research Fellows Program (Due October 15 – November 15)[link](http://sciences.ugresearch.ucla.edu/programs-and-scholarships/urfp)
 
-Library Undergrad research awards (Due April 1st) [link](https://www.library.ucla.edu/research-teaching-support/support-students/showcasing-student-achievement/library-prize-undergraduate-research) humanities, social science, and arts [here](http://hass.ugresearch.ucla.edu/scholarships/urfp/)
+* Library Undergrad research awards (Due April 1st) [link](https://www.library.ucla.edu/research-teaching-support/support-students/showcasing-student-achievement/library-prize-undergraduate-research) humanities, social science, and arts [here](http://hass.ugresearch.ucla.edu/scholarships/urfp/)
 
-Summer Programs for Undergraduate Research (various due dates, early spring) [link](https://grad.ucla.edu/admissions/diversity/summer-programs-for-undergraduate-research-spur/)
+* Summer Programs for Undergraduate Research (various due dates, early spring) [link](https://grad.ucla.edu/admissions/diversity/summer-programs-for-undergraduate-research-spur/)
 
-Undergrad Research Week (Spring) [Link](https://urweek.ugresearch.ucla.edu/) + Dean's prize (Spring) [Link](https://urweek.ugresearch.ucla.edu/apply/#deansprize)
+* Undergrad Research Week (Spring) [Link](https://urweek.ugresearch.ucla.edu/) + Dean's prize (Spring) [Link](https://urweek.ugresearch.ucla.edu/apply/#deansprize)
 
-LAEP [link](https://financialaid.ucla.edu/special-aid-programs/learning-aligned-education-program)
+* LAEP [link](https://financialaid.ucla.edu/special-aid-programs/learning-aligned-education-program)
 
 #### Supporting Graduate Research
 
@@ -153,9 +153,9 @@ __Additional Spaces to Know__
 * EPSON Flatbed scanner.  Good for high quality scans of photos, slides, negatives, or other images.  
 * CZUR Overhead scanner.  Good for text scanning--- e.g. quickly scanning a whole document or book.  Comes with a pedal for quick scanning.
 
-[Here](https://docs.google.com/document/d/1xPFiymsgkl2qoAkapaHHUU75ceXKz9bEDdqObJ7DyWI/edit?usp=sharing) are the instructions for operating the Archive computers. 
+[Here](https://docs.google.com/document/d/1xPFiymsgkl2qoAkapaHHUU75ceXKz9bEDdqObJ7DyWI/edit?usp=sharing) [TBD] are the instructions for operating the Archive computers. 
 
-2. Podcasting: There is audio recording equipment inside the LAByrinth Archive room that is available for LAByrinth members to use. Same procedure as above to be let into the room. [Here](https://docs.google.com/document/d/1XORBLC3S0WE5X4MnDVPWwJwfA0t_GPnzurTZf43C9cc/edit?usp=sharing) are the instructions for operating the Podcasting equipment. 
+2. Podcasting: There is audio recording equipment inside the LAByrinth Archive room that is available for LAByrinth members to use. Same procedure as above to be let into the room. [Here](https://docs.google.com/document/d/1XORBLC3S0WE5X4MnDVPWwJwfA0t_GPnzurTZf43C9cc/edit?usp=sharing) [TBD] are the instructions for operating the Podcasting equipment. 
 
 3. Equipment Check-Out: There are small audio recorders and other equipment that can be checked-out for LAByrinth use. [Email](toubian@ucla.edu) Sophia to check equipment out for a limited period of time. 
 
@@ -210,7 +210,7 @@ Guidelines are general rules and principles, whereas protocols are precise and d
 ### Onboarding to the lab
 Welcome to the lab!
 
-First thing that will happen as a part of our onboarding proccess is that you will be invited to our discord.  @ckelty or @soph can issue invites to Discord. Once in Discord:
+First thing that will happen as a part of our onboarding proccess is that you will be invited to our discord.  @ckelty or @toubian can issue invites to Discord. Once in Discord:
 
 * New to Discord? Here's a [tutorial](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord).
 
@@ -292,17 +292,9 @@ Most of the data that we publish about humans (in any medium) is either made pse
 
 ### Playlists
 
-** Labyrinth Podcast **
+#### [Labyrinth Podcast](https://open.spotify.com/show/4QW3ZgP3RddumZdPRLJZzw?go=1&sp_cid=4cec07c7e86c00b9df919db1009138b6&utm_source=embed_player_p&utm_medium=desktop&nd=1)
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/4QW3ZgP3RddumZdPRLJZzw?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+#### [Los Angeles Playlist](https://open.spotify.com/embed/playlist/0UszJsDdPdaJmWDT2flPI4?utm_source=generator)
 
-**Los Angeles Playlist**
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0UszJsDdPdaJmWDT2flPI4?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Helicopter Play List**
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5LJAMuLfFmEgKHgUeLHPbM?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-(TBD)
+#### [Helicopter Playlist](https://open.spotify.com/embed/playlist/5LJAMuLfFmEgKHgUeLHPbM?utm_source=generator)
 
