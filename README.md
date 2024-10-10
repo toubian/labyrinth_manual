@@ -214,7 +214,7 @@ First thing that will happen as a part of our onboarding proccess is that you wi
 
 * New to Discord? Here's a [tutorial](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord).
 
-* Now that you understand the platform a bit more, go to the #start-here channel and get access to our Notion workspace, there you'll find our LAByrinth Wiki, a lab-wide task board, and a lab-wide project board.
+* Now that you understand the platform a bit more, browse the #general channel and any channels related to what you do. Eventually you may need access to our Notion workspace, there you'll find our LAByrinth Wiki, a lab-wide task board, and a lab-wide project board. (Instructions TBD)
 
 * In the LAByrinth Wiki on Notion you'll need to: 1) gain access to Box, 2) gain access to Miro, 3) gain access to our gCal with meeting times, etc.  
 
